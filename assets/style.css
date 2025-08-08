@@ -70,10 +70,13 @@ nav {
 .wave {
   background: #111;
   color: #fff;
-  text-shadow: 1px 1px 10px #fff, 1px 1px 10px #ccc;
+  text-shadow:
+    1px 1px 10px #fff,
+    1px 1px 10px #ccc;
 }
 
 footer {
+  font-size: 0.7em;
   margin-top: 30px;
   display: flex;
   flex-direction: column;

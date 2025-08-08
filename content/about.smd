@@ -4,7 +4,7 @@
 .author = "Sample Author",
 .layout = "index.shtml",
 .draft = false,
---- 
+---
 
 ## About Zine
 Zine is an MIT-licensed project created by [Loris Cro](https://kristoff.it) and
