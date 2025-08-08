@@ -14,7 +14,7 @@
     <super>
   </head>
   <body id="body">
-    <h1 class="site-title" :text="$site.title"></h1>
+    <!-- <h1 class="site-title" :text="$site.title"></h1> -->
     <nav>
       <a href="$site.page('').link()">Home</a>
        &nbsp; • &nbsp;
@@ -29,8 +29,9 @@
     <super>
     <footer>
       <hr>
-      <h5>SITE UNDER CONSTRUCTION</h5>
-      <img src="$site.asset('under-construction.gif').link()" width=90>
+      <p>&copy;
+        <span id="date"></span>
+        Pranav RK. All right reserved.</p>
     </footer>
   </body>
 </html>
