@@ -2,7 +2,7 @@
 .title = "About",
 .date = @date("1990-01-01T00:00:00"),
 .author = "Pranav RK",
-.layout = "page.shtml",
+.layout = "index.shtml",
 .draft = false,
 ---
 
