@@ -1,0 +1,27 @@
+---
+.title = "Work",
+.date = @date("1990-01-01T00:00:00"),
+.author = "Pranav RK",
+.layout = "page.shtml",
+.draft = false,
+---
+
+# Work & Projects
+
+Here are some of the projects I've worked on and things I've built.
+
+## Current Projects
+
+*Coming soon - I'll be adding details about my current projects here.*
+
+## Past Work
+
+*This section will showcase completed projects and their stories.*
+
+## Open Source
+
+*Links to my open source contributions and personal repositories.*
+
+---
+
+This page is a work in progress. Check back soon for updates on my latest projects and work.
