@@ -9,6 +9,7 @@
     <link type="text/css" rel="stylesheet" href="$site.asset('highlight.css').link()">
     <super>
   </head>
+  <script src="$site.asset('main.js').link()"></script>
   <body id="body">
     <nav>
       <a href="$site.page('').link()">Home</a>
